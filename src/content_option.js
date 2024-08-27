@@ -1,4 +1,5 @@
 const logotext = "Mʌʀɩ";
+import img from './assets/images/amazona-home.png'
 const meta = {
   title: "Umair Naeem",
   description:
@@ -76,9 +77,8 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img,
     description: "E-Commerce Website-Amazona",
-
     link: "https://umairnaeem373.github.io/E-commerce-amazona/",
   },
   {
