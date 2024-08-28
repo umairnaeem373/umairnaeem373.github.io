@@ -1,5 +1,6 @@
 const logotext = "Mʌʀɩ";
 import img from './assets/images/amazona-home.png'
+import img2 from './assets/images/dev-connections.png'
 const meta = {
   title: "Umair Naeem",
   description:
@@ -82,7 +83,7 @@ const dataportfolio = [
     link: "https://umairnaeem373.github.io/E-commerce-amazona/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: img2,
     description: "Dev Connections",
     link: "https://umairnaeem373.github.io/dev-connections-redux/",
   },
