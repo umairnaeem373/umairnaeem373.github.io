@@ -1,6 +1,7 @@
 const logotext = "Mʌʀɩ";
 import img from './assets/images/amazona-home.png'
 import img2 from './assets/images/dev-connections.png'
+import img3 from './assets/images/little-stars.png'
 const meta = {
   title: "Umair Naeem",
   description:
@@ -26,7 +27,7 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Fron End Developer",
+    jobtitle: "Front End Developer",
     where: "VCT",
     date: "2023",
   },
@@ -88,10 +89,10 @@ const dataportfolio = [
     link: "https://umairnaeem373.github.io/dev-connections-redux/",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: img3,
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Little Stars",
+    link: "https://little-stars-1ohs3zzwr-umairnaeem373s-projects.vercel.app/",
   },
   {
     img: "https://picsum.photos/400/?grayscale",
