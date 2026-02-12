@@ -1,15 +1,16 @@
 const logotext = "Mʌʀɩ";
 import img from './assets/images/amazona-home.png'
-import img2 from './assets/images/dev-connections.png'
+import img2 from './assets/images/freight.png'
 import img3 from './assets/images/little-stars.png'
+import img0 from './assets/images/shop-hub.png'
 const meta = {
-  title: "Umair Naeem",
+  title: "M. Umair Naeem",
   description:
     "I’m M.Umair Naeem,a MERN stack developer,currently working in Lahore",
 };
 
 const introdata = {
-  title: "I’m Mʌʀɩ Bʌɓʌ",
+  title: "I’m Muhammad Umair",
   animated: {
     first: "I love coding",
     second: "I code cool websites",
@@ -23,23 +24,33 @@ const introdata = {
 const dataabout = {
   title: "A bit about my self",
   aboutme:
-    "Welcome to my portfolio! I'm a MERN stack web developer passionate about crafting intuitive and efficient web solutions. Explore my projects and skills to learn more about my work.",
+    "Welcome to my portfolio! I'm a Full stack developer passionate about crafting intuitive and efficient solutions. Explore my projects and skills to learn more about my work.",
 };
 const worktimeline = [
   {
     jobtitle: "Front End Developer",
-    where: "VCT",
-    date: "2023",
+    where: "VVork Cloud Technologies",
+    date: "2024",
+  },
+  {
+    jobtitle: "Jr. MERN Stack Developer",
+    where: "Digital Vortax",
+    date: "2024 - 2025",
+  },
+  {
+    jobtitle: "Full Stack Developer",
+    where: "CrocusZone",
+    date: "2025 - Current",
   },
 ];
 
 const skills = [
   {
-    name: "Html",
+    name: "HTML",
     value: 90,
   },
   {
-    name: "Css",
+    name: "CSS",
     value: 85,
   },
   {
@@ -47,46 +58,64 @@ const skills = [
     value: 70,
   },
   {
-    name: "Reactjs",
+    name: "React Js",
     value: 75,
   },
   {
-    name: "Nodejs",
-    value: 50,
+    name: "React Native",
+    value: 65,
   },
   {
-    name: "Expressjs",
+    name: "Node Js",
+    value: 70,
+  },
+  {
+    name: "Express Js",
     value: 80,
   },
   {
-    name: "MongoDB",
+    name: "Mongo DB",
+    value: 80,
+  },
+  {
+    name: "Supabase",
+    value: 80,
+  },
+  {
+    name: "Socket.IO",
     value: 80,
   },
 ];
 
 const services = [
   {
-    title: "Web Apps",
+    title: "Scalable Web Apps",
     description:
-      "We offer custom web development, responsive design, e-commerce solutions, SEO optimization, and ongoing support to help your business thrive online.",
+    "I create custom web apps, responsive design, e-commerce solutions, SEO optimization, and ongoing support to help your business thrive online.",
   },
   {
-    title: "Web Design",
+    title: "Mobile Apps",
     description:
-      "We specialize in creating custom web designs that are modern, user-friendly, responsive, and tailored to showcase your brand effectively online.",
+    "I develop Mobile apps, using React native to create apps that works for both Android and iOS Platforms",
+  },
+  {
+    title: "Scalable Backends",
+    description:
+      "I specialize in creating scalable backend that are tailored to work with the your apps effectively",
   },
 ];
 
 const dataportfolio = [
+
   {
-    img,
-    description: "E-Commerce Website-Amazona",
-    link: "https://umairnaeem373.github.io/E-commerce-amazona/",
+    img: img0,
+    description: "Shop Hub",
+    link: "https://shop-hub-ashy.vercel.app/",
   },
   {
     img: img2,
-    description: "Dev Connections",
-    link: "https://umairnaeem373.github.io/dev-connections-redux/",
+    description: "FreightPK",
+    link: "https://trucking-web-coral.vercel.app/",
   },
   {
     img: img3,
@@ -95,10 +124,9 @@ const dataportfolio = [
     link: "https://little-stars-1ohs3zzwr-umairnaeem373s-projects.vercel.app/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img,
+    description: "E-Commerce Website-Amazona",
+    link: "https://umairnaeem373.github.io/E-commerce-amazona/",
   },
 ];
 
