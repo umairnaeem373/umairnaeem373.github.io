@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d26757c6.css",
-    "main.js": "/static/js/main.a23765b7.js",
+    "main.js": "/static/js/main.8b4c8f6f.js",
     "static/media/shop-hub.png": "/static/media/shop-hub.b17001ac6afe7a68ca4c.png",
     "static/media/little-stars.png": "/static/media/little-stars.6e4d0ab0c050cb383196.png",
     "static/media/amazona-home.png": "/static/media/amazona-home.27f48af6eda9ac7a0c2e.png",
@@ -11,6 +11,6 @@
   },
   "entrypoints": [
     "static/css/main.d26757c6.css",
-    "static/js/main.a23765b7.js"
+    "static/js/main.8b4c8f6f.js"
   ]
 }
