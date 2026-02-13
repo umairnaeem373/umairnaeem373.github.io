@@ -106,22 +106,22 @@ const services = [
 ];
 
 const dataportfolio = [
-
-  {
-    img: img0,
-    description: "Shop Hub",
-    link: "https://shop-hub-ashy.vercel.app/",
-  },
+  
   {
     img: img2,
     description: "FreightPK",
     link: "https://trucking-web-coral.vercel.app/",
   },
   {
+    img: img0,
+    description: "Shop Hub",
+    link: "https://shop-hub-ashy.vercel.app/",
+  },
+  {
     img: img3,
     description:
       "Little Stars",
-    link: "https://little-stars-1ohs3zzwr-umairnaeem373s-projects.vercel.app/",
+    link: "https://little-stars-snowy.vercel.app/",
   },
   {
     img,
@@ -132,7 +132,7 @@ const dataportfolio = [
 
 const contactConfig = {
   YOUR_EMAIL: "umairnaeem373@gmail.com",
-  YOUR_FONE: "0334 1041181",
+  YOUR_FONE: "+92334 1041181",
   description:
     "Please feel free to reach out using the form below. Your message is important to us and we'll respond promptly. Thank you for contacting us!. ",
   // creat an emailjs.com account
