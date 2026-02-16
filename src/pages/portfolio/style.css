@@ -1,10 +1,11 @@
 .po_items_ho {
+    column-count: 2;
     column-width: 15em;
     -moz-column-width: 15em;
     -webkit-column-width: 15em;
-    column-gap: 4rem;
-    -moz-column-gap: 4rem;
-    -webkit-column-gap: 4rem;
+    column-gap: 2rem;
+    -moz-column-gap: 2rem;
+    -webkit-column-gap: 2rem;
 }
 
 .po_item {
@@ -70,7 +71,6 @@
 }
 
 .po_item .content a {
-    background: var(--bg-color);
     border: solid 1px var(--text-color);
     padding: 4px 8px;
     text-align: center;
@@ -78,5 +78,6 @@
 }
 
 .po_item .content a:hover {
+    background: var(--bg-color);
     text-decoration: none;
 }

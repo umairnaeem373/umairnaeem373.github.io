@@ -1,12 +1,13 @@
-const logotext = "Mʌʀɩ";
+const logotext = "M. Umair";
 import img from './assets/images/amazona-home.png'
 import img2 from './assets/images/freight.png'
 import img3 from './assets/images/little-stars.png'
+import img4 from './assets/images/fix-my-ride.png'
 import img0 from './assets/images/shop-hub.png'
 const meta = {
   title: "M. Umair Naeem",
   description:
-    "I’m M.Umair Naeem,a MERN stack developer,currently working in Lahore",
+    "I’m M.Umair Naeem,a Full stack developer,currently working in Lahore,Pakistan.",
 };
 
 const introdata = {
@@ -116,6 +117,12 @@ const dataportfolio = [
     img: img0,
     description: "Shop Hub",
     link: "https://shop-hub-ashy.vercel.app/",
+  },
+  {
+    img: img4,
+    description:
+      "Fix My Ride",
+    link: "https://fix-my-ride-lac.vercel.app/",
   },
   {
     img: img3,
