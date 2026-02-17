@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d26757c6.css",
-    "main.js": "/static/js/main.8b4c8f6f.js",
+    "main.css": "/static/css/main.c699ac57.css",
+    "main.js": "/static/js/main.4526a84e.js",
     "static/media/shop-hub.png": "/static/media/shop-hub.b17001ac6afe7a68ca4c.png",
+    "static/media/fix-my-ride.png": "/static/media/fix-my-ride.6034f5dca5f2a10083fb.png",
     "static/media/little-stars.png": "/static/media/little-stars.6e4d0ab0c050cb383196.png",
     "static/media/amazona-home.png": "/static/media/amazona-home.27f48af6eda9ac7a0c2e.png",
     "static/media/profile.jpg": "/static/media/profile.758a9d814c8995ac7130.jpg",
@@ -10,7 +11,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.d26757c6.css",
-    "static/js/main.8b4c8f6f.js"
+    "static/css/main.c699ac57.css",
+    "static/js/main.4526a84e.js"
   ]
 }
